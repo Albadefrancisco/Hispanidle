@@ -1,0 +1,2 @@
+# Hispanidle Style Guide
+This is a simple style guide for the Hispanidle website, meant for the development team of the website. Here we will specify the color palette, button style, fonts, assets, anything necessary to keep the website looking clean.
